@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "ZED RUN",
+    "image": "https://imgur.com/kbGs6zH.png",
+    "description": "A NFT website",
+    "tags": [
+      "Solidity",
+      "Angular",
+      "Web3",
+      "Bootstrap",
+      "Git"
+    ],
+    "demo": "https://zed.run/"
+  },
+  {
+    "id": 2,
+    "name": "30mins",
+    "image": "https://imgur.com/kbGs6zH.png",
+    "description": "A website for enabling your customers & prospects to schedule",
+    "tags": [
+      "next",
+      "Payment_Integration",
+      "AWS"
+    ],
+    "demo": "https://30mins.com/"
+  },
+  {
+    "id": 3,
+    "name": "Plasma Finance",
+    "image": "https://imgur.com/kbGs6zH.png",
+    "description": "A platform to invest ",
+    "tags": [
+      "Vue",
+      "python",
+      "webflow"
+    ],
+    "demo": " https://plasma.finance"
+  },
+  {
+    "id": 4,
+    "name": "JGN-NFT",
+    "image": "https://imgur.com/kbGs6zH.png",
+    "description": "A platform for invest ",
+    "tags": [
+      "Vue",
+      "CSS",
+      "Solidity"
+    ],
+    "demo": " https://jgnnft.com"
+  },
+  {
+    "id": 5,
+    "name": "Driwwwle",
+    "image": "https://imgur.com/kbGs6zH.png",
+    "description": "A platform for web developers to showcase their projects",
+    "tags": [
+      "next",
+      "node",
+      "mongodb",
+      "tailwind",
+      "react-query"
+    ],
+    "source_code": "https://github.com/seto0125/driwwwle",
+    "demo": "https://driwwwle.com/"
+  },
+  {
+    "id": 6,
+    "name": "PCB Cupid",
+    "image": "https://imgur.com/tAZotn3.png",
+    "description": "E-commerce website for a PCB manufacturing company",
+    "tags": [
+      "react",
+      "node",
+      "mongodb",
+      "redux",
+      "razorpay",
+      "material-ui"
+    ],
+    "demo": "https://www.pcbcupid.com/"
+  },
+  {
+    "id": 7,
+    "name": "HealthyWays",
+    "image": "https://imgur.com/8FFqaX8.png",
+    "description": "A food ordering platform for healthy and home-cooked meals",
+    "tags": [
+      "react",
+      "node",
+      "mongodb",
+      "redux",
+      "razorpay",
+      "material-ui"
+    ],
+    "source_code": "https://github.com/Seto0125/healthyways-v3",
+    "demo": "https://healthyways.herokuapp.com/"
+  },
+  {
+    "id": 8,
+    "name": "Red onion Restaurant",
+    "image": "https://imgur.com/8FFqaX8.png",
+    "description": "This Application Mobile Web & Tablet responsive design.Displaying a Map using MapBox.Search for Pickup and Drop Off Location",
+    "tags": [
+      "next",
+      "react",
+      "tailwind",
+      "mapbox",
+      "API",
+      "firebase",
+      "vercel"
+    ],
+    "source_code": "https://github.com/Seto0125/next-uber",
+    "demo": "https://next-uber.vercel.app/"
+  },
+  {
+    "id": 9,
+    "name": "NFTs Website",
+    "image": "https://imgur.com/8FFqaX8.png",
+    "description": "next.js with tailwind css design nft website",
+    "tags": [
+      "next",
+      "react",
+      "tailwind"
+    ],
+    "source_code": "https://github.com/Seto0125/nfters-next",
+    "demo": "https://next-uber.vercel.app/"
+  }
+]
